@@ -1,0 +1,61 @@
+#photo{
+   display: flex;
+   flex: auto;
+   width: 50%;
+}
+html{
+   height: 100.1%;
+}.caption{
+   text-align: center;
+}.row{
+   text-align: center;
+}.line{
+   text-align: center;
+}#button{
+   text-align: center;
+   padding: 20px;
+   border: none;
+   border-radius: 1px;
+   background-color: white;
+   color: black;
+     
+   
+}#await{
+   text-align: center;
+
+}#paragraph{
+   text-align: right;
+}.images{
+   text-align: center;
+}#alone{
+   text-align: right;
+}#sentence{
+   text-align: center;
+}#gallery{
+   text-align: center;
+}#container{
+   text-align: center;
+   justify-content: space-between;
+   
+
+/* }
+.head1{
+   background-color: black;
+   color: aliceblue;
+   justify-content: space-between;
+   display: flex; */
+}
+.head1{
+   display: flex;
+   justify-content: space-between;
+align-items: center;
+min-height: 8vh;
+background-color: black;
+color: aliceblue;
+
+}#foot{
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: space-between;
+}
